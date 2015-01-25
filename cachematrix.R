@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## Error was in input not code
 
 makeCacheMatrix <- function(x = matrix()) {
   m<-NULL
